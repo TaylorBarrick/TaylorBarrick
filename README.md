@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaylorBarrick
 - 👀 I’m interested in all areas of software dev and electrical engineering
-- 🌱 I’m currently learning golang, react, typescript, dotnet
+- 🌱 I’m currently learning go, react, typescript, dotnet
 - 💞️ I’m looking to collaborate on vscode extensions, any interesting projects
 - 📫 How to reach me TaylorBarrick@gmail.com
 
